@@ -1,4 +1,4 @@
-# 👋 Hey There, I'm Bruno Bernardes
+# 👋 Hello!
 
 ## 💻 Fullstack Software Engineer | C# | .NET Core | Angular | Typescript | Azure
 
